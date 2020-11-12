@@ -1,0 +1,6 @@
+{
+    "require": {
+        "audeio/spotify-web-api": "0.*",
+        "league/oauth2-client": "0.9"
+    }
+}
